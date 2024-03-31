@@ -7,9 +7,12 @@
     "displayname": "Garry's mod",
     "version": "",
     "allowdownload": false,
-    "icon_url": "",
+    "icon_url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg",
     "torrent": {"source": "https://github.com/advancedvirtual2/gmlaunch-data/"},
-    "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "description": {
+      "ru": "Garry's Mod — физическая песочница. В отличие от обычных игр, здесь не существует каких-либо определённых целей или задач. Мы даём вам инструменты и оставляем вас играть.\nВы создаете объекты и соединяете их вместе для создания ваших собственных конструкций — машина ли это, ракета, катапульта или нечто пока без названия — это зависит от вас.\nЕсли с конструированием у вас не слишком замечательно — не расстраивайтесь! Вы можете разместить множество персонажей в глупых позах.",
+      "en": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.\n\nYou spawn objects and weld them together to create your own contraptions - whether that's a car, a rocket, a catapult or something that doesn't have a name yet - that's up to you. You can do it offline, or join the thousands of players who play online each day.\n\nIf you're not too great at construction - don't worry! You can place a variety of characters in silly positions. But if you want to do more, we have the means. "
+    },
     "release_notes": "",
     "author": "Facepunch Studios",
     "publisher": "Valve",
