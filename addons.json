@@ -1,0 +1,10 @@
+{
+  "comments": [
+    "use "%NONE%" to set a value to undefined",
+    "add-on archive name must match add-on name (\"{name}.add-on\"=\"empty.addon\").",
+    "\"*.add-on\" is a just renamed zip archives. "
+  ],
+  "addons": [
+    {"name": "empty", "icon_url": "", "description": "This is just example.\nempty directory, empty archive."}
+  ]
+}
