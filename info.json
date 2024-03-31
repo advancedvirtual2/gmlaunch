@@ -1,0 +1,19 @@
+{
+  "comments": [
+    "this is an info about game in the \"install.torrent\""
+  ],
+  "info": {
+    "name": "garrysmod",
+    "displayname": "Garry's mod",
+    "version": "",
+    "allowdownload": false,
+    "icon_url": "",
+    "torrent": {"source": "https://github.com/advancedvirtual2/gmlaunch-data/"},
+    "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "release_notes": "",
+    "author": "Facepunch Studios",
+    "publisher": "Valve",
+    "steam_url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+    "download_description": "this is a test"
+  }
+}
