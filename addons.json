@@ -1,6 +1,6 @@
 {
   "comments": [
-    "use "%NONE%" to set a value to undefined",
+    "use \"%NONE%\" to set a value to undefined",
     "add-on archive name must match add-on name (\"{name}.add-on\"=\"empty.addon\").",
     "\"*.add-on\" is a just renamed zip archives. "
   ],
